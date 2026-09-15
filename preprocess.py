@@ -1,6 +1,5 @@
 # ============================================================
-# MASTER PREPROCESSING PIPELINE
-# Generates clean master datasets for EDA and ML training
+# PREPROCESSING
 # ============================================================
 
 import pandas as pd
