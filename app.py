@@ -1,6 +1,5 @@
 # ============================================================
 # STREAMLIT APPLICATION: MULTI-BRAND MARKETING INTELLIGENCE
-# File: app.py
 # ============================================================
 
 import streamlit as st
