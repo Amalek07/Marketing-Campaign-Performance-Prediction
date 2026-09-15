@@ -1,6 +1,5 @@
 # ============================================================
-# EXPLORATORY DATA ANALYSIS (EDA) & VISUALIZATION SUITE
-# Multi-Brand Marketing Campaign Performance
+# EXPLORATORY DATA ANALYSIS 
 # ============================================================
 
 import pandas as pd
